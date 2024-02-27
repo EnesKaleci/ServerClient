@@ -1,0 +1,12 @@
+C:\Users\ARIBILGI\Desktop\ClientServer\ClientServer\bin\Debug\ClientServer.exe.config
+C:\Users\ARIBILGI\Desktop\ClientServer\ClientServer\bin\Debug\ClientServer.exe
+C:\Users\ARIBILGI\Desktop\ClientServer\ClientServer\bin\Debug\ClientServer.pdb
+C:\Users\ARIBILGI\Desktop\ClientServer\ClientServer\bin\Debug\SimpleTCP.dll
+C:\Users\ARIBILGI\Desktop\ClientServer\ClientServer\obj\Debug\ClientServer.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\ClientServer\ClientServer\obj\Debug\ClientServer.Form1.resources
+C:\Users\ARIBILGI\Desktop\ClientServer\ClientServer\obj\Debug\ClientServer.Properties.Resources.resources
+C:\Users\ARIBILGI\Desktop\ClientServer\ClientServer\obj\Debug\ClientServer.csproj.GenerateResource.cache
+C:\Users\ARIBILGI\Desktop\ClientServer\ClientServer\obj\Debug\ClientServer.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\ClientServer\ClientServer\obj\Debug\ClientServer.csproj.CopyComplete
+C:\Users\ARIBILGI\Desktop\ClientServer\ClientServer\obj\Debug\ClientServer.exe
+C:\Users\ARIBILGI\Desktop\ClientServer\ClientServer\obj\Debug\ClientServer.pdb
